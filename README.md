@@ -11,14 +11,14 @@ This project uses facial emotion recognition and audio tone analysis to suggest 
 
 ## Hardware Used
 
-- **SeeedStudio XIAO-ESP32S3 Sense**
+- **[SeeedStudio XIAO-ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)**
   - Onboard Camera
   - PDM Microphone
   - ESP32S3 Chipset
-- **SeeedStudio XIAO nRF52840 Sense**
+- **[SeeedStudio XIAO nRF52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html)**
   - IMU Sensor
   - PDM Microphone
-- **SeeedStudio Grove Vision 2**
+- **[SeeedStudio Grove Vision AI Module v2](https://www.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html)**
   - Arm Cortex-M55
   - Ethos-U55
   - Supports TensorFlow and PyTorch
